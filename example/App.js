@@ -16,9 +16,7 @@ const styles = StyleSheet.create({
 });
 
 function App() {
-  console.log('re rendering');
   const { status, foreground } = useAppState();
-  console.log(`Current APp State${status}${foreground}`);
   return (
     <View style={styles.container}>
       <Text style={styles.type}>{`App State: ${status}`}</Text>
