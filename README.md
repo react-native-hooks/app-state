@@ -19,7 +19,7 @@ function App() {
 ### Output
 | Name  | Type  | Default | Description |
 | :------------ |---------------:| :---------------| :-----|
-| status | `active \ background \ inactive` | `AppState.currentState` | Current App Status |
+| [status](https://facebook.github.io/react-native/docs/appstate#app-states) | `active / background / inactive` | `AppState.currentState` | Current App Status |
 | foreground | boolean | `true` | Is foreground or not |
 
 ## Contribution
