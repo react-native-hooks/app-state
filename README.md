@@ -1,4 +1,4 @@
-# @rnhooks/app-state [![Build Status](https://travis-ci.com/react-native-hooks/app-state.svg?branch=master)](https://travis-ci.com/react-native-hooks/app-state) [![Maintainability](https://api.codeclimate.com/v1/badges/38b8a5ea908ee84db165/maintainability)](https://codeclimate.com/github/react-native-hooks/dimensions/maintainability) <a href="https://github.com/pritishvaidya/react-native-hooks/app-state/blob/master/README.md"><img src="https://img.shields.io/badge/module%20formats-umd%2C%20cjs%2C%20esm-green.svg" alt="module formats: umd, cjs, esm"></a>
+# @rnhooks/app-state [![Build Status](https://travis-ci.com/react-native-hooks/app-state.svg?branch=master)](https://travis-ci.com/react-native-hooks/app-state) [![Maintainability](https://api.codeclimate.com/v1/badges/38b8a5ea908ee84db165/maintainability)](https://codeclimate.com/github/react-native-hooks/app-state/maintainability) <a href="https://github.com/pritishvaidya/react-native-hooks/app-state/blob/master/README.md"><img src="https://img.shields.io/badge/module%20formats-umd%2C%20cjs%2C%20esm-green.svg" alt="module formats: umd, cjs, esm"></a>
 
 > React Native hook for App State
 
