@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "@rnhooks/app-state": {
+      "signature": "6975936f60788e9b4538ddbe6fab05e0",
+      "file": true
+    }
+  }
+}
